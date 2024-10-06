@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://arxiv.org/pdf/2402.19026" rel="external nofollow noopener" target="_blank">Paper Link</a>
 
-![CLHDP](imgs/framework.png)
+![PCLHD](figs/framework.png)
 This is an official code implementation of "Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-IdentificationLearning Commonality, Divergence and Variety for Unsupervised Visible-Infrared Person Re-identification", Which is accepted by NeurIPS 2024.
 
 
