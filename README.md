@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification</h1>
+  <h1 align="center">Learning Commonality, Divergence and Variety for Unsupervised Visible-Infrared Person Re-identification</h1>
   <p align="center">
     <a href="https://scholar.google.com/citations?user=Go9q2jsAAAAJ&hl=zh-CN&oi=sra" rel="external nofollow noopener" target="_blank"><strong>Jiangming Shi*</strong></a>
     ·
@@ -17,7 +17,7 @@
   <a href="https://arxiv.org/pdf/2402.19026" rel="external nofollow noopener" target="_blank">Paper Link</a>
 
 ![PCLHD](figs/framework.png)
-This is an official code implementation of "Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-IdentificationLearning Commonality, Divergence and Variety for Unsupervised Visible-Infrared Person Re-identification", Which is accepted by NeurIPS 2024.
+This is an official code implementation of "Learning Commonality, Divergence and Variety for Unsupervised Visible-Infrared Person Re-identification", Which is accepted by NeurIPS 2024.
 
 
 ## Requirements
