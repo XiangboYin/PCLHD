@@ -25,8 +25,7 @@ This is an official code implementation of "Learning Commonality, Divergence and
 - torch 1.8.0
 - torchvision 0.9.0
 - scikit-learn 1.2.2
-- POT 0.9.3
-
+  
 
 ## Dataset Preprocessing
 ```shell
